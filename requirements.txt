@@ -1,0 +1,5 @@
+torch
+torchvision
+torchmetrics
+tensorboard
+tensorflow  # if needed for any TensorFlow based processing
