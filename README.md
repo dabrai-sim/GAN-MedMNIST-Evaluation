@@ -15,15 +15,7 @@ This repository provides a complete framework for evaluating a Generative Advers
   - Preprocess images for metric computation.
   - Log images and evaluation metrics using TensorBoard.
   - Compute and display IS and FID.
-
-## Repository Structure
-
-medmnist-gan-evaluation/
-├── README.md               # This file
-├── evaluate_medmnist_gan.py  # Evaluation code for the GAN
-├── requirements.txt        # Python dependencies
-└── logs_medmnist/          # Directory for TensorBoard logs (created at runtime)
-
+    
 ## Installation
 
 1. **Clone the repository:**
